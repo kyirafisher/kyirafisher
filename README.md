@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @kyirafisher
--  I’m currently in school @ Blue Ridge Community College, with hopes of transferring to NC State for a BS in Computer Engineering
-- 🌱 I’m currently learning C++, Java, and whatever looks fun to learn!
-- 📫 Email me: me@kyirafisher.work
+- 👋 Hi, I’m @kyirafisher, I enjoy learning and building :)
+- 📫 Email me: kyirafisher@icloud.com
+  
